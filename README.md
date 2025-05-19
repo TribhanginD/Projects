@@ -1,2 +1,2 @@
 # Projects
-#Collection of all projects
+## Collection of all projects
